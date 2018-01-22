@@ -36,7 +36,7 @@ Qiao's vim files
 
 ## Themes ##
 
-* [tomorrow](https://github.com/ChrisKempson/Tomorrow-Theme/tree/master/Vim)
+* [tomorrow](https://github.com/ChrisKempson/Tomorrow-Theme)
 * [tir\_black](http://www.vim.org/scripts/script.php?script_id=2777)
 * [inkpot](http://www.vim.org/scripts/script.php?script_id=1143)
 
